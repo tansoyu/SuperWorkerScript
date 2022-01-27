@@ -1,0 +1,4 @@
+var SUCCESS = 'success',
+FAIL = 'fail',
+CA_SELLER_NAME_START_ROW = 2,
+CA_SELLER_NAME_START_COLUMN = 2;
